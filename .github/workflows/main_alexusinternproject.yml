@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'AlexusInternProject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C56B4786C4844B28A619B1B057C6DAC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B84AAAD903F048489FB438363D331AC6 }}
